@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+.sass-cache
+
+.bundle/
+node_modules/
+bower_components/
+vendor/
+
+# ビルド後のファイルを無視
+js/out-script.js
+css/*.css
+css/*.map
